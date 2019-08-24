@@ -1,0 +1,12 @@
+name: venv
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - pandas
+  - numpy
+  - pyhive
+  - boto3
+  - seaborn
+  - matplotlib
+  - scipy
