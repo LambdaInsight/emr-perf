@@ -10,3 +10,5 @@ dependencies:
   - seaborn
   - matplotlib
   - scipy
+  - pandas-profiling
+  - isort
